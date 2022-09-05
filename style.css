@@ -1,0 +1,28 @@
+body {
+    /* background-image:linear-gradient(to right, #372B44 ,#5CDB95); */
+    background-color: #38173f;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-align: center;
+}
+.main_container {
+    color: #b52da3;
+}
+.main_text:hover {
+    color:#cf8429;
+}
+.main_text {
+    font-size: 40px;
+}
+a {
+    color:  #961d4e;
+    text-decoration: none;
+    transition: 1s;
+}
+a:hover {
+    color: #4E4E50;
+    transform: scale(1.2);
+}
+hr {
+    width: 40px;
+}
